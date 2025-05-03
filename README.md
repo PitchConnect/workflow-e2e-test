@@ -34,3 +34,4 @@ This repository is used to test the complete issue lifecycle:
 4. **Review**: Ready PRs automatically label issues as "review-ready"
 5. **Merge to Develop**: Merged PRs automatically label issues as "merged-to-develop"
 6. **Release**: Releases automatically label issues as "released"
+# Test PR Status Tracker
